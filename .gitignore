@@ -1,0 +1,7 @@
+# ALLOWLIST: this repo is PUBLIC. Only the static app and its deploy workflow are tracked.
+# settings.json (DATA_PATH / gist id), logs, chrome profile, code, venv: never committed.
+/*
+!/web/
+!/.github/
+!/.gitignore
+!/README.md
